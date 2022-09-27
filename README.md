@@ -1,3 +1,2 @@
-# IT-Project_Chatbot
+# Deep Learning based Chatbot
 
-Rule Based Chatbot
